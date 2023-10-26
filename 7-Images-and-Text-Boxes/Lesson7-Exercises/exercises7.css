@@ -1,0 +1,20 @@
+body {
+  background: radial-gradient(gray, rgb(175, 172, 172))
+}
+.a7 {
+  width: 200px;
+  border-radius: 20px;
+}
+.b7 {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  object-position: center;
+}
+.c7 {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 100px;
+}

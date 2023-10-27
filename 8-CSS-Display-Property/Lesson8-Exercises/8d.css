@@ -1,0 +1,31 @@
+body {
+  width: 250px;
+}
+input{
+  border: none;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  box-shadow: 0 0 2px;
+}
+.text1 {
+  width: 102px;
+  margin-right: 5px;
+}
+.text2 {
+  width: 102px;
+}
+.text3 {
+  width: 232px;
+}
+.sign-up-button {
+  width: 250px;
+  background-color: rgb(5, 91, 250);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}

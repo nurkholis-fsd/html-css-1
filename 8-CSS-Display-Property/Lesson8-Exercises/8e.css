@@ -1,0 +1,43 @@
+body {
+  width: 300px;
+}
+.text-request, .text1, .text2, .text-button1, .text-button2 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.text-request {
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+.text1, .text2 {
+  width: 282px;
+  background-color:rgb(234, 234, 234);
+  font-weight: bold;
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  margin-bottom: 8px;
+}
+.text-button1 {
+  background-color: black;
+  color: white;
+  border: none;
+  margin-top: 20px;
+  margin-right: 5px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 13px;
+  padding-right: 13px;
+}
+.text-button2 {
+  background-color:rgb(234, 234, 234);
+  font-weight: bold;
+  border: none;
+  margin-top: 20px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 13px;
+  padding-right: 13px;
+}

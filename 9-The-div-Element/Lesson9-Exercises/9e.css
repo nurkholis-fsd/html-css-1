@@ -1,0 +1,34 @@
+div {
+  width: 300px;
+  border: none;
+  border-radius: 7px;
+  padding: 7px;
+  box-shadow: 0 0 5px rgb(139, 137, 137)
+}
+.image-cat{
+  width: 40px;
+  height: 40px;
+  border: none;
+  border-radius: 20px;
+  box-shadow: 0 0 2px;
+  object-fit: cover;
+  object-position: center;
+  vertical-align: middle;
+}
+.text-input {
+  width: 180px;
+  margin-left: 8px;
+  border: none;
+  vertical-align: middle;
+}
+.text-button {
+  background-color:cadetblue;
+  color: white;
+  border: none;
+  border-radius: 20px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 10px;
+  padding-right: 10px;
+  vertical-align: middle;
+}

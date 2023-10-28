@@ -1,0 +1,63 @@
+.div-preview {
+  display: inline-block;
+  width: 200px;
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 15px;
+  border: none;
+  box-shadow: 0 0 2px rgba(96, 96, 96, 0.6);
+}
+
+.div-image-content {
+  width: 200px;
+  height: 200px;
+  margin: 0;
+}
+.image-content {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  object-position: center;
+  box-shadow: 0 0 1px;
+}
+
+.content-author, .div-image-mutual-friend, .button-add-friend {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.content-author {
+  margin-top: 15px;
+  margin-bottom: 10px;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.image-friend {
+  display: inline-block;
+  margin-bottom: 10px;
+}
+.image-mini {
+  width: 30px;
+  height: 30px;
+  border: none;
+  border-radius: 20px;
+  box-shadow: 0 0 2px;
+  margin-right: 7px;
+  vertical-align: middle;
+}
+.mutual-friend {
+  vertical-align:middle;
+  display: inline-block;
+  font-size: 14px;
+  color: rgb(96, 96, 96);
+}
+.button-add-friend {
+  background-color: rgb(0, 119, 255);
+  color: white;
+  font-size: 17px;
+  border: none;
+  border-radius: 4px;
+  padding: 10px 16px 10px 16px;
+  margin-bottom: 10px;
+}

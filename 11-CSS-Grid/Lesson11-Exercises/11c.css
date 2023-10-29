@@ -1,0 +1,11 @@
+.container-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  column-gap: 20px;
+  row-gap: 10px;
+}
+.t1 {
+  background-color: lightpink;
+  font-size: 14px;
+  font-weight: bold;
+}
